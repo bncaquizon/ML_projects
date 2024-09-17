@@ -1,0 +1,11 @@
+This project aims to gain insights into the factors that affects hospitalization and medical charges. The dataset was obtain from https://github.com/stedy/Machine-Learning-with-R-datasets.git (using insurance.csv)
+
+This dataset contains the following features:
+
+age : int, age of primary beneficiary
+sex : binary, gender of the policy holder
+bmi : int, body mass index which indicates whether the policy holder is underweight, normal weight or, overweight
+children : int, indicates the number of childer/dependents covered by the policy
+smoker : categorical, indicates if the policy holder is a smoker
+region : categorical, place of the policy holder's residency.
+And charges (INT) as the target
